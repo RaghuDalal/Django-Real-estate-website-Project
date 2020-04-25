@@ -1,2 +1,3 @@
-#Django real estate website
+# Django real estate website
+
 Real estate application using the Django framework & PostgreSQL
