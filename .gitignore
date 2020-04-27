@@ -5,9 +5,12 @@
 ### Django ###
 /static
 /media
+/venv
+/btre_resources
 *.log
 *.pot
 *.pyc
+.idea
 __pycache__/
 local_settings.py
 db.sqlite3
